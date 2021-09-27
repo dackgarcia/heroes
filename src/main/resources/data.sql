@@ -1,0 +1,9 @@
+INSERT INTO HEROES (NOMBRE, DESCRIPCION, ORIGEN, PODERES, OCUPACION) VALUES
+                                                                         ('Batman', 'Un personaje llamado Bruce Wayne', 'Humano', 'Sin Poderes','Magnate Filántropo'),
+                                                                         ('Superman', 'Llego a la tierra en una nave Clark Joseph Kent', 'planeta Krypton', 'volar, visión calorica, super fuerza', 'Reportero'),
+                                                                         ('Capitana MARVEL', 'Carol Susan Jane Danvers ha superado a todos los superheroes', 'Humano', 'volar, visión calorica, super fuerza', 'Ama de Casa'),
+                                                                         ('Spiderman', 'Es un superhéroe que aparece en los cómics estadounidenses publicados por Marvel Comics que existen en su universo compartido.', 'Humano/Araña', 'Fuerza, velocidad, durabilidad, agilidad, sentidos, reflejos, coordinación, equilibrio y resistencia sobrehumanos', 'Fotografo'),
+                                                                         ('Aquaman', 'Como pez en el agua', 'Humano/Pez', 'Sabe nadar, super fuerza', 'Pescador'),
+                                                                         ('Flash', 'Corre como el rayo', 'Humano', 'Super Velocidad', 'Repartidor'),
+                                                                         ('Thor', 'dios del trueno', 'humano/dios', 'volar, martillo, super fuerza', 'Obrero'),
+                                                                         ('Capitán América', 'Steven Grant Rogers resultado de un experimiento', 'Humano', 'fuerza, inteligencia, sanación','Soldado');
